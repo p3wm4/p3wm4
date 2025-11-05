@@ -8,4 +8,4 @@
 
 #### 🦢 - I'm interessed in learning more on how to code various actions for future projects, and with that also on how to make it visually appealing and much more.
 
-#### 🪷 - I am NOT looking forward to using GitHub to it's fullest!
+#### 🪷 - I am looking forward to using GitHub to it's fullest!
